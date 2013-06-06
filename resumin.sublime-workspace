@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "resume.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"utf-8\"/>\n	<title> Demo | Responsive Web</title>\n	<meta name=\"viewport\" content=\"width=device-width, minimumscale=\n	1.0, maximum-scale=1.0\" />\n	<link href=\"styles/main.css\" type=\"text/css\" rel=\"stylesheet\">\n	<!--[if lt IE 9]>\n	<script src=\"//html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n	<![endif]-->\n	<script type='text/javascript' src='scripts/respond.min.js'></script>\n</head>\n<body>\n	<div id=\"wrapper\">\n		<header>\n			<nav id=\"skipTo\">\n				<ul>\n					<li>\n						<a href=\"#main\" title=\"Skip to Main Content\">Skip to Main Content</a>\n					</li>\n				</ul>\n			</nav>\n			<h1>Demo</h1>\n			<nav>\n				<ul>\n					<li><a href=\"#\" title=\"Home\">Home</a></li>\n					<li><a href=\"#\" title=\"About\">About</a></li>\n					<li><a href=\"#\" title=\"Work\">Work</a></li>\n					<li><a href=\"#\" title=\"Contact\">Contact</a></li>\n				</ul>\n			</nav>\n			<div id=\"banner\">\n				<img src=\"images/kaws.jpg\" alt=\"banner\" />\n			</div>\n			<div id=\"intro\">\n				<h1>TOLU ABAYOMI</h1>\n				62 Irving Place, Staten Island, NY 10304 	\n				347 - 850 - 0616	●	Email: tolu@digitalsketchpad.com\n			</div>\n		</header>\n		<section id=\"main\">\n			\n\n\n		<h2>CAREER AND SKILLS SUMMARY</h2>\n\n		<p>Senior Web Developer and User Interface Designer with a track record of designing and architecting successful solutions that achieve business goals.  Self-driven and comfortable working with and learning from others. Proficiencies include:</p>\n\n	<h2>BACKEND PROGRAMMING</h4> \n	<ul>\n		<li>PHP (Including CodeIgniter, ExpressionEngine, Lithium, CakePHP)</li>\n		<li>ASP.NET (Web Forms and MVC), C# , C++,  SQL.</li>\n		<li>MySQL, Microsoft SQL Server, MongoDB</li>\n		<li>Familiarity with Ruby on Rails, Coldfusion</li>\n		<li>Git</li>\n	</ul>\n\n	<h2>FRONTEND </h2>\n	<ul>\n		<li>HTML, CSS</li>\n		<li>JQuery, Mootools</li>\n	</ul>\n\n\n<h2>DESIGN</h2>\n<ul>\n	<li>Research, Planning, Wireframing and Visual Design of website interfaces</li>\n	<li>Transforming previously designed comps to pixel accurate HTML prototypes.</li>\n	<li>Proficient with Photoshop and Illustrator.\n	<li>Equally comfortable on Mac OS X and Windows</li>\n</ul>\n\n\n<h2>EXPERIENCE</h2>\n	\n	<p>Freelance Web Design/Development Consultant – (2001 – Present)\n	New York, NY</p>\n\n	<p>Responsibilities include Creative Planning and Direction for web sites, Frontend development, Backend Architectural Design, Site Specifications Analysis, including database development, web site graphics and art direction.</p>\n	<ul>\n		<li>Clients/Brands include Gilt Group, St. Luke’s Roosevelt Hospital, Revel Resorts and Casinos, Sports Illustrated and Purina – Canyon Creek Ranch </li>\n		<li>Programming and Development from project inception to conclusion</li>\n		<li>Working with existing teams to implement specifications</li>\n		<li>Website User Interface Design and Architecture</li>\n	</ul>\n\n	<p>Partial Portfolio online at – www.digitalsketchpad.com. \n	Recent Projects/Clients include:</p>\n\n	<h3>Purina – Canyon Creek Ranch - Better Way Project  – http:// http://canyoncreekranch.com/betterwayproject</h3>\n\n	<h4>PARTICIPATION</h4>\n	<ul> \n		<li>Development Team Lead at Rokkan, LLC – Oversaw integration of frontend programming with server-side APIs. Primarily responsible for backend code. (ASP.NET)</li>\n		<li>Architecture and Design of Custom CMS from client specifications</li>\n		<li>Collaboration with client IT team for prelaunch testing and installation</li>\n	</ul>\n\n	<h3>My Sales Show </h4> \n		<p>http://www.mysalesshow.com</h4>\n	<ul>\n		<li>Responsible for Programming and Architecture of entire website</li>\n		<li>Customization and Integration of Social Media Platform </li>\n		<li>Setup and integration to allow user upload of videos with remote hosting systems.</li><li>Custom Wordpress theme design</li>\n		<li>PHP based website.</li>\n	</ul>\n \n\n	<h3>Mercury Road, LLC </h3>\n	<p>Conversion of approximately 15 portal and sales lead generation websites to cross browser/standards compliant format based on provided templates.\n	(Samples include http://www.taxfranchisereview.com, http://www.bestcleaningfranchises.com) </p> \n	<ul>  \n		<li>Lead generation form</li>\n		<li>Form processing code in PHP to integrate with existing API</li>\n	</ul>\n\n\n	<h3> St. Luke’s - Roosevelt Hospital – Child and Family Institute </h3>\n	<p>http://www.slrchildpsych.org (Winner – American Graphic Design Awards)</p>\n	<ul>\n		<li>Art Direction, Graphics and User Interface Design</li>\n		<li>Planning and design of Website Architecture and Content Management System</li>\n		<li>Database development with SQL Server and ASP.NET (C#)</li>\n	</ul>\n\n\n\n	<h2>EDUCATION & QUALIFICATIONS</h2>\n	<ul>\n		<li>\n			<p>B.S., Computer Science (cum laude)			Spring 2010\n			<br/>City College of New York, NY.</p></li>\n\n		<li><p>A.S., Computer Science 				 	1997 – 2000\n		             <br/>Borough of Manhattan Community College, NY.\n		<br/>Graduated with Honors\n		<br/>Classes included Art and Graphic Design</li>\n\n		<li><p>Microsoft Certified Systems Engineer (Windows 2000)	2002\n				<br/>Electives included:\n				<ul>\n					<li>SQL Server Database Administration</li>\n				</ul>\n		</li>\n		<li>Microsoft Certified Professional				2001</li>\n		<li>CompTIA A+ Certification </li>\n	</ul>\n	</div>\n</body>\n</html>\n\n",
+			"file": "sample.html",
+			"file_size": 5227,
+			"file_write_time": 1366693031000000,
+			"settings":
+			{
+				"buffer_size": 5213,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jason/DSK/JustResumin/app/index.html",
+		"/Users/jason/DSK/JustResumin/Gruntfile.js",
+		"/Users/jason/DSK/JustResumin/styles/style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resume.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample.html",
+					"settings":
+					{
+						"buffer_size": 5213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
