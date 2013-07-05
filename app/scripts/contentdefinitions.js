@@ -96,7 +96,21 @@ define(['jquery'], function ($) {
     		tagName: "section",
     		allowedChildren: ['div','h1','h2','h3','h4','p','ul','ol', 'table'],
     		channels: ['click','focus', 'blur'],
-    		typeDefinition: null
+    		typeDefinition: {
+    			events:{
+    				click: function(e){
+
+                    },
+
+                    focus: function(e){
+
+                    },
+
+                    blur: function(e){
+                        
+                    }
+    			}
+    		}
     	},
 
     	ul: {

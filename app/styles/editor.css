@@ -5,3 +5,8 @@
 	margin:3px 1px;
 	cursor:pointer;
 }
+
+SECTION{
+	min-height: 50px;
+	background-color:#BEC9CF;
+}
